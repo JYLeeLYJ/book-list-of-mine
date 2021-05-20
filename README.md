@@ -13,14 +13,14 @@
 3. √ Inside the C++ Object Model 
 4. √ 程序员的自我修养 
 5. √ C++ Template 2nd
-6.   C++ 并发编程实战
+6. √ C++ 并发编程实战
 7. √ STL 源码剖析 
 8. √ C++ 模板元编程(c++98上古技法)
-9.   Optimize C++ :《C++ 性能优化指南》
+9. √ Optimize C++ :《C++ 性能优化指南》
 
 #### *函数式基础*
 
-1. √ The Little Scheme
+1. √ The Little Schemer
 2. √ Haskell趣学指南
 3.   Real World Haskell
 4.   Introduction to Lambda Calculus
@@ -41,6 +41,7 @@
 2. √ 数学之美
 3.   什么是数学——对思想方法的基本研究
 4.   古今数学思想(math-history)
+5. = 同构 - 编程中的数学
 
 #### *科班基础*
 
@@ -61,8 +62,12 @@
 
 #### *System*
 
-1. 深入了解计算机系统/CSAPP
-2. 计算机网络——自顶向下方法
+1.   深入了解计算机系统/CSAPP
+2. √ 计算机网络——自顶向下方法
+
+#### *Engineering*
+1. √ Linux高性能服务器编程
+2. √ Linux多线程服务端编程——使用muduo网络库
 
 #### *Theory*
 
